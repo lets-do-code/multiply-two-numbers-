@@ -1,0 +1,23 @@
+//WAP to perform multiplication f two numbers
+
+#include<iostream>
+
+#include<cmath>
+
+using namespace std;
+
+int main()
+
+{
+
+int n1,n2, mul;
+
+cin>>n1>>n2;
+
+mul=n1*n2;
+
+cout<<"Multiplication of two numbers is:"<<mul<<endl;
+
+return 0;
+
+}
